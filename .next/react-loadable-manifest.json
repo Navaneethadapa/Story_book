@@ -1,0 +1,14 @@
+{
+  "..\\layouts\\Home\\Intro.js -> layouts/Home/DisplacementSphere": {
+    "id": "..\\layouts\\Home\\Intro.js -> layouts/Home/DisplacementSphere",
+    "files": [
+      "static/chunks/src_layouts_Home_DisplacementSphere_js.js"
+    ]
+  },
+  "..\\layouts\\Home\\ProjectSummary.js -> components/Model": {
+    "id": "..\\layouts\\Home\\ProjectSummary.js -> components/Model",
+    "files": [
+      "static/chunks/src_components_Model_index_js.js"
+    ]
+  }
+}
